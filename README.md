@@ -1,4 +1,4 @@
 # Ipsita
 this is my first repository
-[BR]
+<br>
 feeling ok
